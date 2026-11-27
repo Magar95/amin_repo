@@ -15,4 +15,8 @@ def double(n):
 
 
 def exponent(n, exp):
-    return n ** exp
+    return n**exp
+
+
+def polindrome(word):
+    return word[::-1]
