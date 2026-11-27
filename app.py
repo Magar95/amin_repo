@@ -12,3 +12,7 @@ def mul(a, b):
 
 def double(n):
     return n * 2
+
+
+def exponent(n, exp):
+    return n ** exp
